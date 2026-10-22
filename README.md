@@ -13,5 +13,5 @@
 
 ## Let's connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/) (add your link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ebiboleigha)
 - 🌐 [BloomBridge live](https://bloombridgekid.netlify.app)
